@@ -1,0 +1,12 @@
+PIR Module Test (CTRL+C to exit)
+{"eventID": 1, "start": "26Aug2017-13:57:10", "stop": "26Aug2017-13:57:19", "Description": "Movimiento detectado"}
+{"eventID": 2, "start": "26Aug2017-13:57:20", "stop": "26Aug2017-13:57:30", "Description": "Movimiento detectado"}
+{"eventID": 3, "start": "26Aug2017-13:57:51", "stop": "26Aug2017-13:58:06", "Description": "Movimiento detectado"}
+{"eventID": 4, "start": "26Aug2017-13:58:13", "stop": "26Aug2017-13:58:21", "Description": "Movimiento detectado"}
+{"eventID": 5, "start": "26Aug2017-13:58:54", "stop": "26Aug2017-13:59:06", "Description": "Movimiento detectado"}
+{"eventID": 6, "start": "26Aug2017-14:03:27", "stop": "26Aug2017-14:03:36", "Description": "Movimiento detectado"}
+{"eventID": 7, "start": "26Aug2017-14:03:43", "stop": "26Aug2017-14:03:50", "Description": "Movimiento detectado"}
+{"eventID": 8, "start": "26Aug2017-14:03:53", "stop": "26Aug2017-14:04:07", "Description": "Movimiento detectado"}
+{"eventID": 9, "start": "26Aug2017-14:04:44", "stop": "26Aug2017-14:04:51", "Description": "Movimiento detectado"}
+{"eventID": 10, "start": "26Aug2017-14:13:12", "stop": "26Aug2017-14:13:24", "Description": "Movimiento detectado"}
+Exit PIR Sensoring...
